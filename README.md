@@ -6,7 +6,7 @@
 
 </h2>
 
-![puzzle-application](https://drive.google.com/file/d/1sNWlhrWiPBxYtnHbQK0XFUsQ6p2bJphE/view?usp=share_link)
+![puzzle-application]("C:\Users\garga\OneDrive\Pictures\Screenshots\Screenshot (329).png")
 
 <hr>
 
