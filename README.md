@@ -6,7 +6,7 @@
 
 </h2>
 
-![puzzle-application]("C:\Users\garga\OneDrive\Pictures\Screenshots\Screenshot (329).png")
+![puzzle-application](["C:\Users\garga\OneDrive\Pictures\Screenshots\Screenshot (329).png"](https://lh3.googleusercontent.com/8RulFQrjjSADA85rbTLP2eeKZKR3k5ncX6hmfYTu6MFpJZ5W64QiHLqdVRnYs0tqz-LmPFUC53lYIW0c4VwLJ_F_x5AS1T5p1rL0-1SwxzTC))
 
 <hr>
 
