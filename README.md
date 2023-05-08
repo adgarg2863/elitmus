@@ -22,7 +22,6 @@
 
 - [Introduction](#introduction)
 - [Soft Skills](#softSkills)
-- [Method of Evaluation](#methodOfEvaluationOfSoftSkills)
 
 # Introduction
 
