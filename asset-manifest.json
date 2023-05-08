@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/elitmus/static/css/main.b4515073.css",
+    "main.js": "/elitmus/static/js/main.f4ba878e.js",
+    "static/js/787.cf75abfc.chunk.js": "/elitmus/static/js/787.cf75abfc.chunk.js",
+    "static/media/level7.webp": "/elitmus/static/media/level7.4b63f9e6fd716d629881.webp",
+    "static/media/level2.webp": "/elitmus/static/media/level2.5d2a36b7337662cb4e91.webp",
+    "static/media/level10.webp": "/elitmus/static/media/level10.373a0fc93394b3a41b46.webp",
+    "static/media/level9.webp": "/elitmus/static/media/level9.08c01dda203c3a6591e0.webp",
+    "static/media/level4.webp": "/elitmus/static/media/level4.bc7719c97580266e155f.webp",
+    "static/media/level6.webp": "/elitmus/static/media/level6.d6f388f9a761ae9f966a.webp",
+    "static/media/level5.webp": "/elitmus/static/media/level5.ce52118d036b85a6a489.webp",
+    "static/media/level8.webp": "/elitmus/static/media/level8.1b3373d40c56003de9f3.webp",
+    "static/media/level3.jpg": "/elitmus/static/media/level3.a223ac414c20224e5e57.jpg",
+    "static/media/level1.webp": "/elitmus/static/media/level1.6cf424b508d30052fd95.webp",
+    "index.html": "/elitmus/index.html",
+    "main.b4515073.css.map": "/elitmus/static/css/main.b4515073.css.map",
+    "main.f4ba878e.js.map": "/elitmus/static/js/main.f4ba878e.js.map",
+    "787.cf75abfc.chunk.js.map": "/elitmus/static/js/787.cf75abfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4515073.css",
+    "static/js/main.f4ba878e.js"
+  ]
+}
