@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<h1 align="center"> PUZZLE APPLICATION </h1> <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">Check Your Soft Skills!!
 
-## Available Scripts
+[Visit Website](https://elitmus-407bb.web.app/)
 
-In the project directory, you can run:
+</h2>
 
-### `npm start`
+![puzzle-application](https://drive.google.com/file/d/1sNWlhrWiPBxYtnHbQK0XFUsQ6p2bJphE/view?usp=share_link)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<hr>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Important
 
-### `npm test`
+    Please wait for around 1 minute after clicking on login or signup button.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `npm run build`
+<table>
+<tr >
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<td>
+<!-- react -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </td>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<td>
+<!-- nodeJS -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </td>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<td>
+<!-- mongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /> </td>
 
-### `npm run eject`
+<td>
+<!-- netlify -->
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /> </td>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</tr>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</table>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Table of Contents
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Introduction](#introduction)
+- [Soft Skills](#softSkills)
+- [Method of Evaluation](#methodOfEvaluationOfSoftSkills)
 
-## Learn More
+# Introduction
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Puzzle Application is a simple Soft Skill Test Fun Game.<br/>
+It is like a treasure hunt game for assessing soft skills of a user.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<hr>
 
-### Code Splitting
+# Soft Skills
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Perseverance**
+- **Curiosity**
+- **Eye for Detail**
+- **Problem Solving**
 
-### Analyzing the Bundle Size
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Method of Evaluation of Soft Skills
 
-### Making a Progressive Web App
+It is based on number of hints used<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Perseverance & Curiosity**: <br/>
+  If an user completes all the tasks, then 100%.<br />
+- **Eye for Detail & Problem Solving**: <br />
+  1. if number of hints used > 2, then 60% <br />
+  2. if number of hints used == 1, then 80% <br />
+  3. if number of hints used == 0, then 100% <br />
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<hr>
